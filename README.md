@@ -5,3 +5,5 @@ I really worked hard on it so please take it as it is.
 I am also not done with it but that will come!
 
 I hope it is useful to you!
+
+(For the pictures of the functions, I used the source code of neat-python where is already a program to create the images of functions!
